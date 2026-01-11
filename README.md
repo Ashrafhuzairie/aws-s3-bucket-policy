@@ -21,7 +21,7 @@ This project shows how I created an **Amazon S3 bucket**, uploaded an object, th
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src=docs/images/aws-s3-bucket-policy.png" width="800" />
+  <img src= "docs/images/aws-s3-bucket-policy.png" width="800" />
 </p>
 
 This diagram illustrates the flow on how to host s3 object in aws.
