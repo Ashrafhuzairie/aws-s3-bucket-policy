@@ -18,6 +18,14 @@ This project shows how I created an **Amazon S3 bucket**, uploaded an object, th
 
 ---
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="docs/KTC-AI-Chatbot.png" width="800" />
+</p>
+
+This diagram illustrates the flow on how to host s3 object in aws.
+
 ## Screenshots (Step-by-step)
 
 ### Step 1 — Open S3 in AWS Console
