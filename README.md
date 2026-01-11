@@ -1,6 +1,6 @@
-# Project 1 — AWS S3 Bucket + Bucket Policy (Fix AccessDenied)
+# AWS S3 Bucket + Bucket Policy (Fix AccessDenied)
 
-This mini project shows how I created an **Amazon S3 bucket**, uploaded an object, then fixed the **`AccessDenied`** error when opening the S3 **Object URL** by configuring **S3 permissions + a Bucket Policy**.
+This project shows how I created an **Amazon S3 bucket**, uploaded an object, then fixed the **`AccessDenied`** error when opening the S3 **Object URL** by configuring **S3 permissions + a Bucket Policy**.
 
 > Region used: **Asia Pacific (Singapore) — `ap-southeast-1`**  
 > Demo bucket: **`ashraf-s3-demo-bucket-2026`**
