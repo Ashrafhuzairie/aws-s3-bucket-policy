@@ -26,7 +26,7 @@ This project shows how I created an **Amazon S3 bucket**, uploaded an object, th
 
 This diagram illustrates the flow on how to host s3 object in aws.
 
-## Screenshots (Step-by-step)
+## 🔄 Implementation Steps (Based on Screenshots)
 
 ### Step 1 — Open S3 in AWS Console
 <p align="center">
